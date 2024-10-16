@@ -15,13 +15,13 @@
 ---
 
 ### Skills and Tools:
-- **Open Source CMS/CRM**: Strapi, Directus, KeystoneJS
-- **Web Technologies**: HTML5, CSS3, JavaScript (ES6+), TypeScript
-- **Canvas Libraries**: Fabric.js, Konva.js, Three.js
-- **Frameworks**: React, Next.js, Angular
+ **Frameworks**: React, Next.js, Angular
 - **Backend**: Node.js, Express, MongoDB, PostgreSQL
-- **Version Control**: Git, GitHub, Bitbucket
-- **UI/UX**: Figma, Adobe XD
+-  **Web Technologies**: HTML5, CSS3, JavaScript (ES6+), TypeScript
+- **Canvas Libraries**: Fabric.js, Konva.js, Three.js
+- **Open Source CMS/CRM**: Strapi, Directus, KeystoneJS
+- **Version Control**: Git, GitHub
+
 
 ### 🌟 Featured Projects:
 - 🔧 [Custom CRM with Strapi](https://github.com/m17gupta) - Building a custom CRM solution with Strapi as a headless CMS.
