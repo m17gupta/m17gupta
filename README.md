@@ -32,9 +32,11 @@
 ---
 
 ## Contact me
-Email: manish.gupta.mech@gmail.com
-LinkedIn:manish-gupta-25a2a825a
-GitHub: m17gupta
+Feel free to reach out if you have any questions or if you would like to collaborate on a project.
+
+-[![Email]: manish.gupta.mech@gmail.com.
+-[![LinkedIn]:manish-gupta-25a2a825a.
+-[![GitHub]: m17gupta.
 Thank you for visiting my GitHub profile. I am always eager to learn new things and take on challenging projects. Let's create something amazing together!
 
 
