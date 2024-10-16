@@ -30,6 +30,10 @@
 
 ---
 
-### 💬 Let's Chat:
-- 💡 I'm always open to discussing web development, open-source CRMs, and front-end frameworks.
-- 📫 Feel free to reach out: **manish.gupta.mech@gmail.com**
+## Contact me
+Email: manish.gupta.mech@gmail.com
+LinkedIn:manish-gupta-25a2a825a
+GitHub: m17gupta
+Thank you for visiting my GitHub profile. I am always eager to learn new things and take on challenging projects. Let's create something amazing together!
+
+
