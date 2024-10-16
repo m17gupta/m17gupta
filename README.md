@@ -8,18 +8,19 @@
 - ---
 
 ### What I'm Working On:
+- 🌱  Currently working **TypeScript**, **React**, and **Next.js**.
 - 🔭 Currently working on integrating **Strapi** (headless CMS) for custom CRM solutions.
 - 🖥 Exploring **Fabric.js** and **Konva.js** for advanced HTML5 canvas animations and graphics.
-- 🌱 Actively learning **TypeScript**, **React**, and **Next.js**.
+
 
 ---
 
 ### Skills and Tools:
- **Frameworks**: React, Next.js, Angular
-- **Backend**: Node.js, Express, MongoDB, PostgreSQL
--  **Web Technologies**: HTML5, CSS3, JavaScript (ES6+), TypeScript
-- **Canvas Libraries**: Fabric.js, Konva.js, Three.js
-- **Open Source CMS/CRM**: Strapi, Directus, KeystoneJS
+- **Frameworks**: React, Next.js, Angular
+- **Backend**: Node.js, Express, MongoDB,SpringBoot
+- **Web Technologies**: HTML5, CSS3, JavaScript (ES6+), TypeScript
+- **Canvas Libraries**: Fabric.js, Konva.js
+- **Open Source CMS/CRM**: Strapi
 - **Version Control**: Git, GitHub
 
 
