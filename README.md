@@ -1,9 +1,13 @@
 ## Hi, I'm Manish Kumar Gupta👋
 
 ## About me
-- 🎓 I’m a web developer passionate about front-end and full-stack development.
-- 🛠 I work with a range of technologies, from building interactive web apps to exploring open-source CRM systems.
-- 🚀 Always learning and expanding my skill set, especially in modern web frameworks and open-source tools.
+I'm a passionate Full-Stack Web Developer with a strong focus on modern frontend frameworks and open-source tools.
+
+🔧 I build scalable, interactive web applications and contribute to open-source CRM and UI libraries.
+
+🚀 Continuously expanding my skill set through hands-on experimentation with cutting-edge web technologies.
+
+🧠 Curious by nature — always learning, always building.
 
 - ---
 
