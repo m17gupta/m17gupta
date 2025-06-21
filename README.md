@@ -12,26 +12,33 @@ I'm a passionate Full-Stack Web Developer with a strong focus on modern frontend
 - ---
 
 ### What I'm Working On:
-- 🌱  Currently working **TypeScript**, **React**, and **Next.js**.
-- 🔭 Currently working on integrating **Strapi** (headless CMS) for custom CRM solutions.
-- 🖥 Exploring **Fabric.js** and **Konva.js** for advanced HTML5 canvas animations and graphics.
+🧩 TypeScript, React, and Next.js for building modular, scalable web applications.
+
+🧑‍💼 Integrating Strapi (headless CMS) for dynamic custom CRM solutions.
+
+🎨 Exploring advanced canvas graphics using Fabric.js and Konva.js.
 
 
 ---
 
 ### Skills and Tools:
-- **Frameworks**: React, Next.js, Angular
-- **Backend**: Node.js, Express, MongoDB,SpringBoot
-- **Web Technologies**: HTML5, CSS3, JavaScript (ES6+), TypeScript
-- **Canvas Libraries**: Fabric.js, Konva.js
-- **Open Source CMS/CRM**: Strapi
-- **Version Control**: Git, GitHub
+-Frameworks: React, Next.js, Angular
+Backend: Node.js, Express, MongoDB, Spring Boot
+Web Technologies: HTML5, CSS3, JavaScript (ES6+), TypeScript
+Canvas Libraries: Fabric.js, Konva.js
+Headless CMS: Strapi
+Version Control: Git, GitHub
 
 
 ### 🌟 Featured Projects:
-- 🔧 [Custom CRM with Strapi](https://github.com/m17gupta) - Building a custom CRM solution with Strapi as a headless CMS.
-- 🎨 [Canvas Animation with Fabric.js](https://github.com/m17guptas) - Experimenting with Fabric.js for interactive HTML5 canvas designs.
-- ✍️ [Konva.js Playground](https://github.com/m17gupta) - Playing with Konva.js to create animations and interactive drawings on HTML5 canvas.
+✨ Custom CRM with Strapi
+Built a scalable CRM solution using Strapi as a headless CMS, integrated with a modern front-end stack.
+
+🎨 Canvas Animation with Fabric.js
+Interactive experiments with Fabric.js to create dynamic HTML5 canvas-based graphics and animations.
+
+🖌️ Konva.js Playground
+A project to explore Konva.js capabilities — animations, drawings, and user interactions on the HTML5 canvas.
 
 ---
 
